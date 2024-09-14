@@ -1,2 +1,2 @@
 # SERVER
-making a http server with express on node runtime env.
+Making a http server with express.js on node.js runtime environment.
